@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /news/wp-content/
+Disallow: /images
