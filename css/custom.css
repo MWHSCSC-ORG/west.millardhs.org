@@ -1,0 +1,37 @@
+body {
+    padding-top: 50px; /* Padding for .navbar-fixed-top. Change value if navbar height changes. Remove if using .navbar-static-top. */
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+.footer-blurb {
+    padding: 30px 0;
+	text-align: center;
+    background-color: lightskyblue;
+}
+
+.mwlogo {
+	width: 25px;
+	height: 17px;
+	fill: #9D9D9D;
+}
+
+.mwlogo:hover {
+	fill: #FFFFFF;
+}
+
+.footer-blurb h3 {
+    color: midnightblue;
+    }
+
+.footer-blurb-item {
+    padding: 30px 0;
+    }
+
+.copyright {
+	background-color: #fff;
+	text-align: center;
+	padding: 30px 0;
+}

@@ -1,0 +1,51 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+h1.title {
+    text-align:center;
+    color:#FE0002;
+    font-weight:600;
+    font-family:Arial;
+}
+h3.date {
+    font-family:impact;
+    font-weight: lighter;
+    font-size:2em;
+    text-align:center;
+}
+body {
+    background-color:#deeff5;
+}
+div.register {
+    height:2.55em;
+    background-color:#FE0002;
+    color:white;
+    width:12em;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+p {
+    font-size:2em;
+}
+img.logo {
+    height:15em;
+    width:20.25em;
+}
+p > a {
+    text-decoration:none;
+    color:white;
+}
+h3 > span.words1 {
+    color:#2A6B43;
+}
+h3 > span.words2 {
+    color:#000000;
+}
+h3 > span.words3 {
+    color:#2A6B43;
+}
+h3 > span.words4 {
+    color:#000000;
+}
+h3 > span.words5 {
+    color:#2A6B43;
+}
